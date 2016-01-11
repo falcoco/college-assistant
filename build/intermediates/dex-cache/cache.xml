@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\greatyhh\Desktop\helper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\greatyhh\Desktop\helper\app\build\intermediates\pre-dexed\debug\classes-bcd4871e7f6964962f87e4235b344d7a9e5f9bbc.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\greatyhh\Desktop\helper\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-44722627e942f97d476a77eea971ab8fd7d967ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\greatyhh\Desktop\helper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\greatyhh\Desktop\helper\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-e6f976322747366a6e1ac7c37ce8c8362844964b.jar" />
+    </item>
+    <item
+        jar="C:\Users\greatyhh\Desktop\helper\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\greatyhh\Desktop\helper\app\build\intermediates\pre-dexed\debug\classes-589c8ffe4a80a763300c0dd034c1fee6133fccd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\greatyhh\Desktop\helper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\greatyhh\Desktop\helper\app\build\intermediates\pre-dexed\debug\classes-1399eee656b464f96379a55ceffba046607f812c.jar" />
+    </item>
+
+</items>

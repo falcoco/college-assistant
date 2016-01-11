@@ -1,0 +1,59 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="vertical"
+    android:fadingEdge="vertical">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/black"
+        tools:context="activity.HomepageFragment"
+        >
+
+
+        <TextView
+            android:id="@+id/dongnan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="left"
+            android:text="校名：东南大学\n地点：江苏南京\n类别：985、211\n学校简介：东南大学是中央直管、教育部直属的全国重点大学，是985工程和211工程重点建设的大学之一。学校坐落在历史文化名城南京，占地面积5888亩，建有四牌楼、九龙湖、丁家桥，东南大学是我国最早建立的...."
+            android:drawableRight="@drawable/su"
+            android:padding="20dp"
+            android:background="@drawable/background_img"/>
+
+        <TextView
+            android:id="@+id/nanda"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="left"
+            android:text="校名：南京大学\n地点：江苏南京\n类别：985、211\n学校简介：南京大学坐落于钟灵毓秀、虎踞龙蟠的金陵古都南京，是一所历史悠久、声誉卓著的百年名校，其前身是创建于1902年的三江师范学堂，此后历经两江师范学院、南京高等师范学校、锅里东南大学、第四中山大学、国立中央大学、国立南京大学时期...."
+            android:drawableRight="@drawable/nju"
+            android:padding="20dp"
+            android:background="@drawable/background_img"/>
+
+        <TextView
+            android:id="@+id/suda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="left"
+            android:text="校名：苏州大学\n地点：江苏苏州\n类别：211\n学校简介：苏州大学，简称苏大，坐落于中国历史文化名城——江苏省苏州市，是江苏省属重点综合性大学，国家“211工程”重点建设高校、“2011计划”首批牵头高校，入选首批”国家大学生创新性实验计划”高校之一、“国家建设高水平大学公派研究生项目”、“海外高层次人才引进计划”，同时也...."
+            android:drawableRight="@drawable/suda"
+            android:padding="20dp"
+            android:background="@drawable/background_img"/>
+    </LinearLayout>
+</ScrollView>
